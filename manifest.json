@@ -1,9 +1,10 @@
 {
   "name": "Diverse Name Generator",
-  "id": "1170179620116333707",
+  "id": "1170187031608645783",
   "api": "1.0.0",
   "main": "code.js",
   "editorType": [
     "figma"
-  ]
+  ],
+  "ui": "ui.html"
 }
